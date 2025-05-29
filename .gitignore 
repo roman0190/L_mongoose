@@ -1,3 +1,0 @@
-node_modules/
-.envgit rm -r --cached node_modules
-git rm --cached .env
